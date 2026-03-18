@@ -1,2 +1,4 @@
 # python-basics
-This is my first git repository \n Author-pappu khatbe
+This is my first git repository.
+<br>
+Author-pappu khatbe
